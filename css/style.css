@@ -1,0 +1,582 @@
+
+body {
+	background-color:white;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 20px;
+	line-height: 20px;
+}
+
+/* Header */
+.bg-welcome{
+	font-size: 10px;
+}
+
+.bg-contact{
+	border-bottom:1px solid rgb(236, 232, 232);
+}
+
+/* End Header */
+
+
+/* Navigation */
+.navbar-light {
+	min-height: 20px !important;
+	margin-bottom:10px !important;
+	margin-top:10px !important;
+	margin-left: 15px;
+	}
+
+.navbar-nav li  {
+	padding-left: 15px;
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
+.navbar-nav li a {
+  color: #000 !important;
+	padding:  20px 30px;
+	font-size:13px;
+}
+.navbar-nav li a:hover {
+    color: #090!important;	
+}
+.dropdown li a {
+	color:#000 !important;
+	background-color: #fff;
+}
+.dropdown li a:hover {
+	color:#dc0 !important;
+	background-color: #fff;
+}
+.navbar-toggler { 
+}
+
+.imageproject2{
+	margin-top: 16px;
+}
+
+/* End Naviagtion */
+
+/* Banner */
+.bg-green {
+    min-height: 500px;
+	box-shadow: inset 0 0 0 1000px rgba(0,0,0,.2);
+	background:url(../images/image3.png) no-repeat center center fixed;
+	background-size: cover;
+    padding-top: 180px; 
+	margin: 0px 0px 40px 0px;
+	overflow:hidden; 
+	color:#fff;
+	}
+.bg-green h6 {
+	font-family: SourceSansPro;
+	font-size: 14px;
+	font-weight: bold;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 4.9px;
+	text-align: center;
+	color: #ffffff;
+}
+.bg-green h2 {
+	font-family: Georgia;
+	font-size: 40px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 3.1px;
+	text-align: center;
+	color: #ffffff;
+	padding-top: 18px;
+}
+.bg-green p {
+	font-family: OpenSans;
+	font-size: px;
+	font-weight: 600;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.8px;
+	text-align: center;
+	color: #ffffff;
+}
+/* End Banner */
+
+
+/* Checkin and Checkout */
+
+.bg-check{
+	margin-top: -80px;
+	background-color: #ffffff;
+	border: 1px solid rgb(223, 214, 214);
+}
+
+.CHECK-IN {
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.6px;
+	text-align: justify;
+	color: #9b9b9b;
+	font-size: 12px;
+  }
+
+  .CHECK-OUT {
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.6px;
+	text-align: justify;
+	color: #9b9b9b;
+	font-size: 12px;
+  }
+
+  .guest {
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.6px;
+	text-align: justify;
+	color: #9b9b9b;
+	font-size: 12px;
+  }
+
+.bg-1{
+ background-color:  #053b58; 
+ text-align: center;
+}
+
+.bg-in1 p {
+padding-top: 10px;
+padding-left: 20px;
+}
+
+.bg-in2 p {
+	padding-top: 10px;
+	padding-left: 20px;
+	}
+
+.bg-in3 p {
+		padding-top: 10px;
+		padding-left: 20px;
+		}	
+
+
+		
+.avail1{
+	font-size: 14px;
+	color: #fff;
+	text-align: center;
+	padding-top: 20px;
+}
+
+.avail2{
+	background-color: #ff7200;
+	color: #fff;
+	font-size: 16px;
+	text-align: center;
+	height: 40px;
+	padding-top: 10px;
+}
+
+.bg-in1  {
+	border-right: 1px solid #d3d0d0
+	}
+	
+	.bg-in2  {
+	border-right: 1px solid #d3d0d0;
+	}
+	
+	.bg-in3  {
+	border-right: 1px solid #d3d0d0;
+}	
+
+/* End Checkin and Checkout */
+
+/* About us */
+.bg-about{
+	font-family: SourceSansPro;
+	font-size: 14px;
+	font-weight: bold;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 4.9px;
+	text-align: center;
+	color: #9b9b9b;
+	margin-top: 90px;
+	margin-bottom: 20px;
+	}
+/* End About us */
+
+/* Best */
+.bg-best {
+	font-family: Georgia;
+	font-size: 52px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 3.1px;
+	text-align: center;
+	color: #000000;
+}
+/* End Best */
+
+/*  Transcorp  */
+.bg-trans{
+	margin-top: 40px;
+	padding: 8px;
+	text-align:center;
+	color: #9b9b9b;
+	font-size: 14px;
+	line-height: 2;
+	font-family: SourceSansPro;
+}
+/* End  Transcorp  */
+
+/* Rectangle 7  */
+.bg-rec{
+	margin-top: 40px;
+	margin-bottom: -120px;
+	padding: 8px;
+	text-align:center;
+	color: #9b9b9b;
+	font-size: 14px;
+	line-height: 2;
+	font-family: SourceSansPro;
+}
+/* End Rectangle 7  */
+
+/* Rectangle 11  */
+.bg-rectangle {
+	background:url(../images/pro1.png) no-repeat center center fixed;
+	background-size: cover;
+	min-height: 300px;
+}
+
+.bg-rectangle p{
+	font-family: SourceSansPro;
+	font-size: 14px;
+	font-weight: bold;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 4.9px;
+	text-align: center;
+	color: #9b9b9b;
+	margin-top: 180px;
+}
+/* End Rectangle 11  */
+
+/* Rectangle 8  */
+.bg-discover{
+	font-family: SourceSansPro;
+  font-size: 12px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 4.9px;
+  text-align: justify;
+  color: #9b9b9b;
+  padding-top: 60px;
+}
+
+.bg-luxury{
+	font-family: Georgia;
+  font-size: 35px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 2.1px;
+  color: #000000;
+  padding-top: 30px;
+}
+
+.class1{
+	background-color: #f5f5f5;
+}
+
+.Classic-Room {
+	font-family: Georgia;
+	font-size: 13px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 1px;
+	margin-top: 10px;
+	color: #000000;
+  }
+
+  .classro{
+	font-family: Georgia;
+	font-size: 10px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	color: #b5b5b5;
+  }
+
+  .class2{
+	border-right:2px solid #0c0c0c;
+  }
+  
+  .class3{
+	  margin-top: 30px;
+	  margin-bottom: 30px;
+  }
+
+  .bg-9{
+	background:url(../images/image1.png) no-repeat center center fixed;
+	background-size: cover;
+	  }
+
+    /* End Rectangle 8  */
+
+/* Rectangle 13  */
+.bg-angle {
+	background:url(../images/pro1.png) no-repeat center center fixed;
+	background-size: cover;
+	}
+
+	.bg-20{
+		background-color: #ffffff;
+		margin-top: 90px;
+		text-align: center;
+	}
+
+	.p1{
+  font-family: SourceSansPro;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 4.9px;
+  color: #9b9b9b;
+  padding-top: 50px;
+	}
+
+	.p2{
+  font-family: Georgia;
+  font-size: 36px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 2.1px;
+  color: #000000;
+  padding-top: 20px;
+	}
+
+	.p3{
+  font-family: Georgia;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: italic;
+  font-stretch: normal;
+  line-height: 1.46;
+  letter-spacing: 1.4px;
+  color: #000000;
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+	}
+
+	.img{
+		width: 100px;
+		height: 100px;
+		margin-top: 30px;
+		margin-bottom: 20px;
+	}
+
+	.p4{
+		font-family: SourceSansPro;
+		font-size: 17px;
+		font-weight: normal;
+		font-style: normal;
+		font-stretch: normal;
+		line-height: normal;
+		letter-spacing: 1px;
+		color: #000000;
+	}
+	/* End Rectangle 13  */
+
+		/* Rectangle 14  */
+.p5{
+  font-family: Georgia;
+  font-size: 26px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 2.1px;
+  text-align: center;
+  color: #4a4a4a;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+		/* End Rectangle 14  */
+
+/* Rectangle 15  */	
+
+.bg-jug {
+	background:url(../images/pro1.png) no-repeat center center fixed;
+	background-size: cover;
+	
+	}
+
+/*SuperWelcome */
+.bg-superwelcome {
+	margin-top: 10px;
+	margin-bottom: 70px;
+	padding: 20px;
+	border-bottom:1px solid #D5D5D5;
+	text-align:center;
+}
+.bg-superwelcome h5 {
+	font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 0.8px;
+  text-align: center;
+  color: #9b9b9b;
+}
+.bg-superwelcome a {
+	text-decoration:none;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 0.8px;
+  text-align: center;
+  color: #000000;
+}
+
+.bg-superwelcome p {
+	font-family: Georgia;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: 0.8px;
+  color: #000000;
+}
+
+.bg-superwelcome a:hover {
+	color: #0F0;
+	background-color: #fff;
+	
+}
+
+.go-1{
+	background-color: #ffffff;
+	padding: 5px;
+}
+/* End Welcome*/
+
+/* End Rectangle 15  */		
+
+
+/* Rectangle 17  */	
+.pg1{
+	font-family: SourceSansPro;
+  font-size: 12px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 4.9px;
+  text-align: justify;
+  color: #9b9b9b;
+  padding-top: 60px;
+}
+
+.pg2{
+	font-family: Georgia;
+  font-size: 35px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 2.1px;
+  color: #000000;
+  padding-top: 30px;
+}
+
+.pg3{
+  font-family: SourceSansPro;
+  font-size: 12px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 4.9px;
+  text-align: justify;
+  color: #9b9b9b;
+  padding-top: 15px;
+}
+
+.pg4{
+	font-family: Georgia;
+  font-size: 25px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 2.1px;
+  color: #000000;
+  padding-top: 30px;
+}
+
+/* End Rectangle 17  */	
+
+/* footer  */	
+
+.bg-footer{
+	background-color: #211f20;
+}
+
+.bg-m{
+  font-family: SourceSansPro;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 0.4px;
+  color: #9b9b9b;
+	margin-top: 80px;
+	margin-bottom: 40px;
+}
+/* End footer  */	
+
+/* Close footer  */	
+.bg-final{
+	border-top:1px solid #979797;
+	}
+
+.bg-semi{
+	background-color: #211f20;
+}	
+
+ul li i{
+	color: #979797;
+	padding-top: 15px;
+	padding-left: 5px;
+	text-align: center;
+}
+/* End Close footer  */	
